@@ -9,11 +9,12 @@
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/poopati/Excel-Sales-and-Finance-Analytics/blob/main/Market%20Performance%20Vs%20Target.pdf)_
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+🚀 **Purpose of sales analytics:** Sales analytics enables businesses to closely monitor and evaluate their sales activities and performance. It's your secret weapon for success.
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+💡 **Importance:** Dive deep into your sales data to identify patterns and track key performance indicators (KPIs). Discover what's working and what needs improvement.
+
+📊 **Role of Reports:** Sales reports are your roadmap to success. They help you determine effective customer discounts, ease negotiations with consumers, and pinpoint promising expansion opportunities in new countries.
 
 
 ## Finance Report :
@@ -24,11 +25,11 @@
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/poopati/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+💰 **Purpose:** Dive into finance analytics to evaluate financial performance, support smart decision-making, and ensure clear communication with stakeholders.
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+🔍 **Importance of analyzing Finance data:** Analyzing finance data isn't just about the past; it's your key to the future. Benchmark against industry peers, learn from previous periods and lay a solid foundation for budgeting and forecasting.
 
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+📈 **Role of Reports:** Our reports bridge the gap between numbers and strategy. They align financial planning with strategic goals, building confidence in your organization's financial outlook.
 
 
 ## Technical & Soft Skills:
@@ -38,6 +39,7 @@
 - [x]	Establishing data model relationships with Power Pivot.
 - [x]	Proficiency in incorporating supplementary data into an existing data model.
 - [x]	Utilizing DAX to create calculated columns.
+- [x]	Effective Data Handling with Vlookup, Indexmatch, Xlookup
 
 ## Soft Skills:
 - [x]	Refined understanding of Sales & Finance Reports
