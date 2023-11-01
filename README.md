@@ -7,7 +7,7 @@
 
     **1.** Create a _[customer performance report](https://github.com/poopati/Excel-Sales-and-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/poopati/Excel-Sales-and-Finance-Analytics/blob/main/Market%20Performance%20Vs%20Target.pdf)_
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/poopati/Excel-Sales-and-Finance-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)_
 
 
 🚀 **Purpose of sales analytics:** Sales analytics enables businesses to closely monitor and evaluate their sales activities and performance. It's your secret weapon for success.
